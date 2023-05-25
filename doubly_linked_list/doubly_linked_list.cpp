@@ -170,3 +170,15 @@ void DoubleLinkedList::searchdata() {
 	}
 }
 
+int main() {
+	DoubleLinkedList obj;
+	while (true) {
+		try {
+			cout << "\nMenu" << endl;
+			cout << "1. Add a record to the list " << endl;
+			cout << "2. Delete a record from the list" << endl;
+			cout << "3. View all records in the ascending order of roll numbers" << endl;
+		}
+	}
+}
+
