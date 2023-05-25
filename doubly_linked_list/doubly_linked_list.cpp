@@ -178,6 +178,10 @@ int main() {
 			cout << "1. Add a record to the list " << endl;
 			cout << "2. Delete a record from the list" << endl;
 			cout << "3. View all records in the ascending order of roll numbers" << endl;
+			cout << "4. View All Records In The Descending Order Of Roll Numbers" << endl;
+			cout << "5. Search For A Record In The List" << endl;
+			cout << "6. Exit" << endl;
+			cout << "7. \nEnter Your Choice (1 - 6) : "
 		}
 	}
 }
